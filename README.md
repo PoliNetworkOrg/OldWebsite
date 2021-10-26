@@ -1,7 +1,6 @@
-## Info
+Repo del vecchio sito del network, trovate quello nuovo su 
 
-Ciao a tutti, questa è la repo del sito https://polinetwork.github.io
+https://github.com/PoliNetwork/polinetwork.github.io
 
-
-##  Suggerimenti
-Vi invitiamo a suggerirci delle modifiche, se ne avete (aprite una issue)
+al sito
+https://polinetwork.github.io
